@@ -10,10 +10,10 @@ export default function Home() {
     <div className="size-full min-h-full relative flex items-center justify-center p-4">
       {/* Top right corner email */}
       <a
-        href="mailto:uvniche@gmail.com"
+        href="mailto:kattaavaneeshrao@hotmail.com"
         className="fixed top-4 right-4 sm:top-6 sm:right-6 z-40 flex items-center justify-center size-10 rounded-full border border-white/20 bg-white/[0.08] backdrop-blur-sm text-foreground"
-        aria-label="Email uvniche@gmail.com"
-        title="uvniche@gmail.com"
+        aria-label="Email kattaavaneeshrao@hotmail.com"
+        title="kattaavaneeshrao@hotmail.com"
       >
         <Mail className="size-5 shrink-0" aria-hidden="true" />
       </a>
