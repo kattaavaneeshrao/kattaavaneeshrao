@@ -7,10 +7,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(config.baseUrl),
   title: "avaneesh",
-  description: "@uvniche",   // clean, no newline
+  description: "@kattaavaneeshrao",   // clean, no newline
   openGraph: {
     title: "avaneesh",
-    description: "@uvniche",
+    description: "@kattaavaneeshrao",
     url: config.baseUrl,
     siteName: "avaneesh",
     images: [
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "avaneesh",
-    description: "@uvniche",
+    description: "@kattaavaneeshrao",
     images: ["/pfp.webp"],
   },
   icons: {
@@ -120,11 +120,11 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "@uvniche",
+              "name": "@kattaavaneeshrao",
               "url": config.baseUrl,
               "logo": `${config.baseUrl}/favicon.png`,
               "sameAs": [
-                "https://youtube.com/@uvniche"
+                "https://youtube.com/@kattaavaneeshrao"
               ]
             })
           }}
