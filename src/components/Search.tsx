@@ -16,27 +16,27 @@ import {
 const searchLinks = [
   {
     name: "BeatStars",
-    url: "https://www.beatstars.com/uvniche",
+    url: "https://www.beatstars.com/kattaavaneeshrao",
     icon: SiBeatstars,
   },
   {
     name: "GitHub",
-    url: "https://github.com/uvniche",
+    url: "https://github.com/kattaavaneeshrao",
     icon: FaGithub,
   },
   {
     name: "HackerOne",
-    url: "https://hackerone.com/uvniche",
+    url: "https://hackerone.com/kattaavaneeshrao",
     icon: SiHackerone,
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/uvniche/",
+    url: "https://www.instagram.com/kattaavaneeshrao/",
     icon: FaInstagram,
   },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/uvniche",
+    url: "https://www.linkedin.com/in/kattaavaneeshrao",
     icon: FaLinkedin,
   },
   {
@@ -46,7 +46,7 @@ const searchLinks = [
   },
   {
     name: "YouTube",
-    url: "https://www.youtube.com/@uvniche",
+    url: "https://www.youtube.com/@kattaavaneeshrao",
     icon: FaYoutube,
   },
 ]
