@@ -41,7 +41,7 @@ const searchLinks = [
   },
   {
     name: "Spotify",
-    url: "https://open.spotify.com/artist/2WZKTiJucQd5UTC5LICRZ6",
+    url: "https://open.spotify.com/user/31cd3d2mgkepk3sciymbfvdpke2e",
     icon: FaSpotify,
   },
   {
